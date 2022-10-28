@@ -5,6 +5,7 @@
     margin-top: -5px;
 }
 .title_navbar_edit{
+    color: white;
     font-family: 'Questrial', sans-serif;
 }
 
@@ -20,6 +21,7 @@
     line-height: 20px;
     text-align: center;
 }
+
 
 /*---CONTENEDOR PRINCIPAL---*/
 .conteiner_principal{
