@@ -41,6 +41,18 @@
     font-weight: 500;
 }
 
+.playlist{
+    color: white;
+    font-size: 20px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+.my-icon {
+    vertical-align: text-bottom;
+    margin-bottom: -4px;
+
+}
+
 /*---CONTENEDOR DEL MEDIOL---*/
 
 .conteiner_medio{
