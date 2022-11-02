@@ -43,14 +43,13 @@
 
 .playlist{
     color: white;
-    font-size: 20px;
+    font-size: 100%;
     padding-bottom: 5px;
     padding-left: 10px;
 }
 .my-icon {
     vertical-align: text-bottom;
     margin-bottom: -4px;
-
 }
 
 /*---CONTENEDOR DEL MEDIOL---*/
